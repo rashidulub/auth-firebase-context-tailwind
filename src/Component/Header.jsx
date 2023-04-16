@@ -14,7 +14,7 @@ const Header = () => {
 
 
     return (
-        <div className='sticky top-0'>
+        <div className=''>
             
 <div className="navbar bg-primary text-primary-content">
   <a className="btn btn-ghost normal-case text-xl">Auth Master</a>
